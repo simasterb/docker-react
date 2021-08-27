@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "express": "*",
+    "redis": "^3.1.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
